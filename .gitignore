@@ -1,0 +1,4 @@
+.vscode
+*.kml
+*.kmz
+venv
